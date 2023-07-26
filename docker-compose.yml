@@ -1,0 +1,8 @@
+version: '3.9'  # The version of the Docker Compose file syntax
+
+services:
+  app:  # Service for the Flask web application
+    container_name : chess_app
+    build : ./
+    ports:
+      - "5432:5432"

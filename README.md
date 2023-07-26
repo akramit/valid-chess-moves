@@ -1,6 +1,6 @@
 # README #
 
-This api determines the valid moves for a given chess piece on a chessboard.
+This api determines the valid moves for a given chess piece on a chessboard. This is a complete dockerized Flask application and can be run using the steps below.
 
 ### Running the application ###
 1. Clone the repository ```valid-chess-moves```
